@@ -18,3 +18,7 @@ end
 
 print odd_or_even 30
 print "\n";
+
+# https://www.hackerrank.com/challenges/ruby-tutorials-object-method-parameters/problem
+
+a.range? b,c
