@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/java-datatypes/problem
+// https://www.hackerrank.com/challenges/java-datatypes/problem
 
 import java.io.*;
 import java.util.*;
@@ -34,5 +34,7 @@ public class Solution {
         System.out.println(scanner.next() + " can't be fitted anywhere." );
       }
     }
+
+    scanner.close();
   }
 }
